@@ -1,5 +1,5 @@
 # OsRemoterTelegramBot
-      <h2> Remote access to ubuntu via telegram bot </h2>
+      Remote access to ubuntu via telegram bot 
 
 # For using this code :
 <ol>
