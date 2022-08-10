@@ -1,7 +1,7 @@
 # OsRemoterTelegramBot
 Remote access to ubuntu via telegram bot
 
-For using this code :
+# For using this code :
 1- create a bot via  telegram BotFather use /newbot command then get token
 2- copy the token in file "token.txt" in config folder
 3- add telegram ID in file "adminsID" in config folder
